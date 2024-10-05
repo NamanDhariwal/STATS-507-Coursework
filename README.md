@@ -8,6 +8,6 @@ STATS 507 is a dual approach based course with focus on both academic and indust
 About the respository:
 This repositary is a collection all the assignments and projects I will and have carried out as a part of the STATS 507 course. This collection is a snippet of the various techinques taught and concepts learnt.
 
-NOTE: All files will only be uploaded by me after teh deadline fo the assignment has passed.
+NOTE: All files will only be uploaded by me after the deadline fo the assignment has passed.
 
 Email: namand@umich.edu
