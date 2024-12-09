@@ -1,4 +1,4 @@
-# STATS 507 - Data Science and Analytics using Python
+# STATS 507 
 
 This is Naman Dhariwal. Welcome to my GitHub repository for STATS 507: Data Analysis in Python.
 
